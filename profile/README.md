@@ -21,7 +21,7 @@ Our team is divided into 3 which are Machine Learning, Cloud Computing and Mobil
 |C151DSX1375|Nasrul Aulia Kalamulloh|[LinkedIn](https://www.linkedin.com/in/nasrul-aulia-kalamulloh-855580218/) |
 |C097DSX1674|Bintang Attariq Rahman|[LinkedIn](https://www.linkedin.com/in/bintang-attariq-215a31222/) |
   
-### Machine Learning Team Member
+### Mobile Development Team Member
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|:--------------:|
 |A097DSX2738|Wahyu Bagus Wicaksono|[LinkedIn](https://www.linkedin.com/in/uyhawsubag/) |
